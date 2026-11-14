@@ -1,0 +1,8 @@
+# survey data and outputs are never committed
+data/*
+!data/README.md
+outputs/
+*.pkl
+__pycache__/
+*.pyc
+~$*.docx
