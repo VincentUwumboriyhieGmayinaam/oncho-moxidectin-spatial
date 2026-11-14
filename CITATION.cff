@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the article and this software."
-title: "Where people miss onchocerciasis treatment - analysis code"
+title: "Where people miss onchocerciasis treatment: Clustering and persistence of non-participation during ivermectin and moxidectin mass drug administration in Ghana - analysis code"
 type: software
 authors:
   - family-names: "[FILL]"

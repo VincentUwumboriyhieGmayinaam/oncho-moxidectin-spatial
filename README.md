@@ -1,9 +1,8 @@
-# Where people miss onchocerciasis treatment
+# Where people miss onchocerciasis treatment: Clustering and persistence of non-participation during ivermectin and moxidectin mass drug administration in Ghana
 
 Analysis code for the article:
 
-> [FILL: authors]. Where people miss onchocerciasis treatment: clustering and persistence of non-participation during
-> ivermectin and moxidectin mass drug administration in Ghana. [FILL: journal, year, DOI].
+> [FILL: authors]. Where people miss onchocerciasis treatment: Clustering and persistence of non-participation during ivermectin and moxidectin mass drug administration in Ghana. PLOS Neglected Tropical Diseases. [FILL: year, DOI].
 
 The code reproduces every number, table, map and figure in the article. It does **not** contain any survey data or
 household coordinates (see [Data access](#data-access)).
@@ -20,6 +19,12 @@ to public river maps. The analysis:
 - compares Round 3 participation by distance to larger rivers and by reported black flies;
 - tests how well the cluster method behaves when communities differ but are not arranged in a spatial pattern
   (simulation).
+
+## How the code is organised
+
+Each script starts with a header that explains its purpose, inputs, outputs and the methods it uses. Inside the
+scripts, every analysis step is a separate block preceded by a comment explaining the method and why it was chosen;
+blocks are separated by one blank line. Scripts are numbered in the order they run.
 
 ## Repository layout
 
