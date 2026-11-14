@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "[FILL]"
     given-names: "[FILL]"
-repository-code: "https://github.com/[FILL-USER]/oncho-moxidectin-spatial"
+repository-code: "https://github.com/VincentUwumboriyhieGmayinaam/oncho-moxidectin-spatial"
 license: MIT
 version: 1.0.0
 date-released: "2026-11-14"
