@@ -1,5 +1,7 @@
 # Where people miss onchocerciasis treatment: Clustering and persistence of non-participation during ivermectin and moxidectin mass drug administration in Ghana
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24223133.svg)](https://doi.org/10.5281/zenodo.24223133)
+
 Analysis code for the article:
 
 > [FILL: authors]. Where people miss onchocerciasis treatment: Clustering and persistence of non-participation during ivermectin and moxidectin mass drug administration in Ghana. PLOS Neglected Tropical Diseases. [FILL: year, DOI].
@@ -93,6 +95,6 @@ requested from the corresponding author; see `data/README.md`. Maps show communi
 
 ## Citation and licence
 
-Please cite the article and this repository (`CITATION.cff`). Code is released under the MIT licence. HydroRIVERS and
+Please cite the article and this repository (`CITATION.cff`). Version used for the submitted manuscript: v1.1.0, doi: [10.5281/zenodo.24223133](https://doi.org/10.5281/zenodo.24223133). Code is released under the MIT licence. HydroRIVERS and
 OpenStreetMap data keep their own licences (HydroSHEDS licence; ODbL). The study was approved by [FILL: ethics
 committee and approval number].
